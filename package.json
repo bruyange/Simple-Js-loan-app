@@ -1,0 +1,19 @@
+{
+  "name": "loan-application",
+  "version": "1.0.0",
+  "description": "A loan application to check customers eligibility for loan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Js Loan App"
+  },
+  "author": "Samson Ugwu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
